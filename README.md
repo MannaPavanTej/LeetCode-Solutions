@@ -19,4 +19,12 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
+## Array
+|  |
+| ------- |
+| [3668-restore-finishing-order](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/3668-restore-finishing-order) |
+## Hash Table
+|  |
+| ------- |
+| [3668-restore-finishing-order](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/3668-restore-finishing-order) |
 <!---LeetCode Topics End-->
