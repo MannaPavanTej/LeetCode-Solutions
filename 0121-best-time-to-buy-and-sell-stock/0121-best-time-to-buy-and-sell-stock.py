@@ -5,8 +5,8 @@ class Solution:
         for i in prices:
             if i<min_price:
                 min_price=i
-            else:
-                profit=i -min_price
-                if profit>max_profit:
-                    max_profit=profit
+        
+            profit=i -min_price
+            if profit>max_profit:
+                max_profit=profit
         return max_profit
