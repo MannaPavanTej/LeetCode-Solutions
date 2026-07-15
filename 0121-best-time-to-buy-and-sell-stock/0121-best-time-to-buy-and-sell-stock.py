@@ -7,6 +7,5 @@ class Solution:
                 min_price=i
             else:
                 profit=i -min_price
-                if profit>max_profit:
-                    max_profit=profit
+                max_profit=max(profit,max_profit)
         return max_profit
