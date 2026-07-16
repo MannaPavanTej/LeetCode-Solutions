@@ -33,6 +33,7 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [1207-unique-number-of-occurrences](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/1207-unique-number-of-occurrences) |
 | [3668-restore-finishing-order](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/3668-restore-finishing-order) |
 ## Number Theory
@@ -51,4 +52,9 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0242-valid-anagram) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
