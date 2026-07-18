@@ -35,6 +35,7 @@
 | ------- |
 | [0217-contains-duplicate](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0242-valid-anagram) |
+| [0771-jewels-and-stones](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0771-jewels-and-stones) |
 | [1207-unique-number-of-occurrences](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/1207-unique-number-of-occurrences) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3668-restore-finishing-order](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/3668-restore-finishing-order) |
@@ -59,6 +60,7 @@
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0242-valid-anagram) |
+| [0771-jewels-and-stones](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0771-jewels-and-stones) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
 ## Simulation
 |  |
