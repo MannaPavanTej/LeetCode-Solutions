@@ -26,6 +26,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
@@ -66,6 +67,7 @@
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
@@ -83,4 +85,8 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
