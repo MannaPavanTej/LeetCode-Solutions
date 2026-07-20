@@ -31,6 +31,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [1207-unique-number-of-occurrences](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/1207-unique-number-of-occurrences) |
+| [1260-shift-2d-grid](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/1260-shift-2d-grid) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3668-restore-finishing-order](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/3668-restore-finishing-order) |
@@ -76,6 +77,7 @@
 ## Simulation
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/1260-shift-2d-grid) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
 ## Queue
 |  |
@@ -89,4 +91,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
+## Matrix
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/1260-shift-2d-grid) |
 <!---LeetCode Topics End-->
