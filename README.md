@@ -74,6 +74,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0771-jewels-and-stones](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0771-jewels-and-stones) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Simulation
 |  |
 | ------- |
@@ -95,4 +96,8 @@
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/1260-shift-2d-grid) |
+## Enumeration
+|  |
+| ------- |
+| [3499-maximize-active-section-with-trade-i](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/3499-maximize-active-section-with-trade-i) |
 <!---LeetCode Topics End-->
