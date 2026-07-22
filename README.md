@@ -31,6 +31,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0283-move-zeroes) |
+| [0643-maximum-average-subarray-i](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0977-squares-of-a-sorted-array](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1207-unique-number-of-occurrences](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1260-shift-2d-grid](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/1260-shift-2d-grid) |
@@ -109,4 +110,8 @@
 |  |
 | ------- |
 | [3499-maximize-active-section-with-trade-i](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/3499-maximize-active-section-with-trade-i) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
