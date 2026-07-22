@@ -5,7 +5,6 @@ class Solution:
         for ch in s:
             if ch.isalnum():
                 n += ch
-        print(n)
         p1=0
         p2=len(n)-1
         while p1<p2:
