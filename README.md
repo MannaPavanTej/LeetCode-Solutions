@@ -7,6 +7,7 @@
 | [0007-reverse-integer](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0069-sqrtx) |
+| [0367-valid-perfect-square](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0509-fibonacci-number](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -72,6 +73,7 @@
 | [0069-sqrtx](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0367-valid-perfect-square](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
 ## Sorting
 |  |
 | ------- |
