@@ -9,5 +9,4 @@ class Solution:
                 l += 1
             seen.add(s[r])
             maxi = max(maxi, r - l + 1)
-            
         return maxi
