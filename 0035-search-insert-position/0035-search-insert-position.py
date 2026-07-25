@@ -3,7 +3,6 @@ class Solution:
         for i in range(len(nums)):
             if nums[i]==target:
                 return i
-        else:
-            nums.append(target)
-            nums.sort()
-            return nums.index(target)
+            elif nums[i]>target:
+                return i
+        return len(nums)
