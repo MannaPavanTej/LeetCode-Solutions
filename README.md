@@ -9,6 +9,7 @@
 | [0069-sqrtx](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0509-fibonacci-number](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -38,6 +39,7 @@
 | [0217-contains-duplicate](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0540-single-element-in-a-sorted-array](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0628-maximum-product-of-three-numbers](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
@@ -88,6 +90,7 @@
 | ------- |
 | [0217-contains-duplicate](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0242-valid-anagram) |
+| [0628-maximum-product-of-three-numbers](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/3536-maximum-product-of-two-digits) |
 ## String
