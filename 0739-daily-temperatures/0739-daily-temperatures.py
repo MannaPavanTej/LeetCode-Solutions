@@ -7,7 +7,5 @@ class Solution:
                 st.pop()
             if st:
                 ans[i]=st[-1]-i
-            
-
             st.append(i)
         return ans
