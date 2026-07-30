@@ -11,6 +11,7 @@
 | [0509-fibonacci-number](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Dynamic Programming
@@ -133,6 +134,7 @@
 | [1544-make-the-string-great](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/1544-make-the-string-great) |
 | [2390-removing-stars-from-a-string](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/2390-removing-stars-from-a-string) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3174-clear-digits](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/3174-clear-digits) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Simulation
@@ -224,4 +226,8 @@
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
+## Greedy
+|  |
+| ------- |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 <!---LeetCode Topics End-->
