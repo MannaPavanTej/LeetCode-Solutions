@@ -151,6 +151,7 @@
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0933-number-of-recent-calls](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0933-number-of-recent-calls) |
 ## Counting
@@ -222,6 +223,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0232-implement-queue-using-stacks](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0682-baseball-game](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -239,6 +241,7 @@
 ## Design
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0933-number-of-recent-calls](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0933-number-of-recent-calls) |
 ## Data Stream
 |  |
