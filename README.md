@@ -7,6 +7,7 @@
 | [0007-reverse-integer](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0069-sqrtx) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0367-valid-perfect-square](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0509-fibonacci-number](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -40,6 +41,7 @@
 | [0075-sort-colors](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0162-find-peak-element](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
@@ -218,6 +220,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0682-baseball-game](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
