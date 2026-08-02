@@ -9,6 +9,7 @@
 | [0069-sqrtx](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0367-valid-perfect-square](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
+| [0412-fizz-buzz](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -135,6 +136,7 @@
 | [0242-valid-anagram](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0412-fizz-buzz](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [0771-jewels-and-stones](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0771-jewels-and-stones) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -147,6 +149,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [0682-baseball-game](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0682-baseball-game) |
 | [1260-shift-2d-grid](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/1260-shift-2d-grid) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
