@@ -297,6 +297,7 @@
 | [0515-find-largest-value-in-each-tree-row](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -326,6 +327,7 @@
 | [0515-find-largest-value-in-each-tree-row](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -352,4 +354,5 @@
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->
