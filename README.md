@@ -75,6 +75,7 @@
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/1470-shuffle-the-array) |
+| [1480-running-sum-of-1d-array](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1929-concatenation-of-array](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
@@ -217,6 +218,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [1480-running-sum-of-1d-array](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/1991-find-the-middle-index-in-array) |
 ## Heap (Priority Queue)
 |  |
