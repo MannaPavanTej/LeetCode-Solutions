@@ -8,6 +8,7 @@
 | [0009-palindrome-number](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0202-happy-number](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0367-valid-perfect-square](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
@@ -90,6 +91,7 @@
 | [0001-two-sum](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
@@ -114,6 +116,7 @@
 | [0141-linked-list-cycle](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0876-middle-of-the-linked-list](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
@@ -404,4 +407,8 @@
 | ------- |
 | [0841-keys-and-rooms](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0841-keys-and-rooms) |
 | [1971-find-if-path-exists-in-graph](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/1971-find-if-path-exists-in-graph) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
