@@ -1,7 +1,7 @@
 class Solution:
     def findErrorNums(self, nums: List[int]) -> List[int]:
         seen=set()
-        dup=miss=0
+        dup=miss=-1
         for i in nums:
             if i in seen:
                 dup=i
