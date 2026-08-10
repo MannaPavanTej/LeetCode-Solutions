@@ -71,6 +71,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0283-move-zeroes) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -109,6 +110,7 @@
 | [0217-contains-duplicate](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 | [0771-jewels-and-stones](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0771-jewels-and-stones) |
 | [1207-unique-number-of-occurrences](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/1207-unique-number-of-occurrences) |
