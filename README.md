@@ -99,6 +99,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/1991-find-the-middle-index-in-array) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3668-restore-finishing-order](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/3668-restore-finishing-order) |
 | [3731-find-missing-elements](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 ## Hash Table
@@ -117,6 +118,7 @@
 | [1207-unique-number-of-occurrences](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3668-restore-finishing-order](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/3668-restore-finishing-order) |
 | [3731-find-missing-elements](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 ## Number Theory
@@ -166,6 +168,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3536-maximum-product-of-two-digits](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 ## String
