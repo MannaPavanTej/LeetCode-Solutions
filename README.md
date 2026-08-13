@@ -84,6 +84,7 @@
 | [0733-flood-fill](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 | [0877-stone-game](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0877-stone-game) |
+| [0905-sort-array-by-parity](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1207-unique-number-of-occurrences](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/1207-unique-number-of-occurrences) |
@@ -144,6 +145,7 @@
 | [0283-move-zeroes](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0876-middle-of-the-linked-list](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
+| [0905-sort-array-by-parity](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Binary Search
@@ -168,6 +170,7 @@
 | [0242-valid-anagram](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0628-maximum-product-of-three-numbers](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0645-set-mismatch) |
+| [0905-sort-array-by-parity](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
