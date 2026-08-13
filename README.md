@@ -23,6 +23,7 @@
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2469-convert-the-temperature](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/2469-convert-the-temperature) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/2600-k-items-with-the-maximum-sum) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
