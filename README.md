@@ -112,6 +112,7 @@
 | [1991-find-the-middle-index-in-array](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/1991-find-the-middle-index-in-array) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3668-restore-finishing-order](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/3668-restore-finishing-order) |
 | [3731-find-missing-elements](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 ## Hash Table
@@ -136,6 +137,7 @@
 | [2744-find-maximum-number-of-string-pairs](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3668-restore-finishing-order](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/3668-restore-finishing-order) |
 | [3731-find-missing-elements](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 ## Number Theory
