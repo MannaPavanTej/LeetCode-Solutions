@@ -8,6 +8,7 @@
 | [0009-palindrome-number](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0202-happy-number) |
@@ -70,6 +71,7 @@
 | [0049-group-anagrams](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
+| [0066-plus-one](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
