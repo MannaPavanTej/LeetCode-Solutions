@@ -272,6 +272,7 @@
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0933-number-of-recent-calls](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0933-number-of-recent-calls) |
@@ -362,6 +363,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0225-implement-stack-using-queues](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0682-baseball-game](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
@@ -384,6 +386,7 @@
 ## Design
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0933-number-of-recent-calls](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0933-number-of-recent-calls) |
 ## Data Stream
