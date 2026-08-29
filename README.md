@@ -85,6 +85,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0162-find-peak-element](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
@@ -137,6 +138,7 @@
 | [0013-roman-to-integer](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
@@ -210,6 +212,7 @@
 | [0049-group-anagrams](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0268-missing-number) |
@@ -286,6 +289,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Trie
@@ -331,6 +335,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0912-sort-an-array](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0912-sort-an-array) |
 ## Merge Sort
 |  |
@@ -553,4 +558,8 @@
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0596-classes-with-at-least-5-students](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0596-classes-with-at-least-5-students) |
 | [0620-not-boring-movies](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0620-not-boring-movies) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
