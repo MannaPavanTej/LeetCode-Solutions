@@ -95,6 +95,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0455-assign-cookies](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0575-distribute-candies](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0575-distribute-candies) |
@@ -189,6 +190,7 @@
 | [0344-reverse-string](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0455-assign-cookies](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 | [0876-middle-of-the-linked-list](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
@@ -221,6 +223,7 @@
 | [0268-missing-number](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0455-assign-cookies](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 | [0905-sort-array-by-parity](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0905-sort-array-by-parity) |
@@ -396,6 +399,7 @@
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0455-assign-cookies](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/2600-k-items-with-the-maximum-sum) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Design
@@ -567,4 +571,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0169-majority-element) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
