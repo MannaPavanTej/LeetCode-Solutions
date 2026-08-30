@@ -569,6 +569,7 @@
 | [0596-classes-with-at-least-5-students](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0596-classes-with-at-least-5-students) |
 | [0620-not-boring-movies](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0620-not-boring-movies) |
 | [1148-article-views-i](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/1148-article-views-i) |
+| [1378-replace-employee-id-with-the-unique-identifier](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1683-invalid-tweets](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/1757-recyclable-and-low-fat-products) |
 ## Boyer–Moore Majority Vote Algorithm
