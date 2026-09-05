@@ -22,6 +22,7 @@
 | [0412-fizz-buzz](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0728-self-dividing-numbers](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0728-self-dividing-numbers) |
 | [0877-stone-game](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
