@@ -275,6 +275,7 @@
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3174-clear-digits](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/3174-clear-digits) |
+| [3498-reverse-degree-of-a-string](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Simulation
 |  |
@@ -292,6 +293,7 @@
 | [2390-removing-stars-from-a-string](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/2390-removing-stars-from-a-string) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3174-clear-digits](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/3174-clear-digits) |
+| [3498-reverse-degree-of-a-string](https://github.com/MannaPavanTej/LeetCode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Queue
 |  |
 | ------- |
